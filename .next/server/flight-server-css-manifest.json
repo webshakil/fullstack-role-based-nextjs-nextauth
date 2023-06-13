@@ -1,0 +1,22 @@
+{
+  "cssImports": {
+    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/layout.js": [
+      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/page": [
+      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/globals.css",
+      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/register/page": [
+      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/globals.css",
+      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/login/page": [
+      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/globals.css",
+      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
