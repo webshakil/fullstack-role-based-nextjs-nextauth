@@ -308,6 +308,26 @@
         "async": false
       }
     },
+    "(app-client)/./app/login/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/login/page.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/login/page.js",
+        "name": "",
+        "chunks": [],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/login/page.js",
+        "name": "default",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./app/register/page.js": {
       "*": {
         "id": "(sc_client)/./app/register/page.js",
@@ -331,7 +351,7 @@
   },
   "edgeSSRModuleMapping": {},
   "clientModules": {
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/app-router.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -339,7 +359,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/app-router.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -347,7 +367,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/app-router.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -355,7 +375,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -363,7 +383,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/app-router.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -371,7 +391,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -379,15 +399,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
-      "name": "getServerActionDispatcher",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -395,7 +407,15 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -403,7 +423,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -411,7 +431,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/error-boundary.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -419,7 +439,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -427,7 +447,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/error-boundary.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -435,7 +455,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -443,7 +463,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -451,7 +471,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -459,15 +479,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
-      "name": "ErrorBoundaryHandler",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -475,7 +487,15 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -483,7 +503,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -491,7 +511,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/redirect-boundary.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -499,7 +519,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -507,7 +527,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/redirect-boundary.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -515,7 +535,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -523,7 +543,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/redirect-boundary.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -531,7 +551,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -539,15 +559,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
-      "name": "RedirectErrorBoundary",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -555,7 +567,15 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -563,7 +583,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -571,7 +591,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -579,7 +599,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -587,7 +607,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -595,7 +615,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -603,7 +623,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -611,7 +631,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/router-reducer/fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -619,7 +639,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/app-router-context.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -627,7 +647,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -635,7 +655,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/app-router-context.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -643,7 +663,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -651,7 +671,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -659,7 +679,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -667,7 +687,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -675,7 +695,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -683,7 +703,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -691,7 +711,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -699,7 +719,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -707,7 +727,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -715,7 +735,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -723,7 +743,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -731,7 +751,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/hooks-client-context.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -739,7 +759,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -747,7 +767,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -755,7 +775,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -763,15 +783,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -779,7 +791,15 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -787,7 +807,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -795,7 +815,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/server-inserted-html.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -803,7 +823,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -811,7 +831,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -819,7 +839,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -827,15 +847,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -843,7 +855,15 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -851,7 +871,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -859,7 +879,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/layout-router.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -867,7 +887,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -875,7 +895,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/layout-router.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -883,7 +903,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -891,7 +911,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/layout-router.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -899,7 +919,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -907,7 +927,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -915,7 +935,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -923,7 +943,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -931,7 +951,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -939,7 +959,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -947,7 +967,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -955,7 +975,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -963,7 +983,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -971,7 +991,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -979,7 +999,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -987,7 +1007,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -995,7 +1015,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -1003,7 +1023,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/image.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -1011,7 +1031,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/image.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -1019,7 +1039,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/image.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -1027,7 +1047,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/image.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -1035,7 +1055,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/image.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1043,7 +1063,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/image.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1051,7 +1071,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/head.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1059,7 +1079,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/head.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1067,7 +1087,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/head.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1075,7 +1095,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/head.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1083,7 +1103,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/head.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1091,7 +1111,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/head.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1099,7 +1119,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
@@ -1107,7 +1127,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
@@ -1115,21 +1135,21 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/globals.css#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/GlobalProvider.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/GlobalProvider.js": {
       "id": "(app-client)/./app/GlobalProvider.js",
       "name": "*",
       "chunks": [
@@ -1137,7 +1157,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/GlobalProvider.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/GlobalProvider.js#": {
       "id": "(app-client)/./app/GlobalProvider.js",
       "name": "",
       "chunks": [
@@ -1145,7 +1165,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/GlobalProvider.js#GlobalProvider": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/GlobalProvider.js#GlobalProvider": {
       "id": "(app-client)/./app/GlobalProvider.js",
       "name": "GlobalProvider",
       "chunks": [
@@ -1153,7 +1173,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/components/nav/NavBar.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/components/nav/NavBar.js": {
       "id": "(app-client)/./components/nav/NavBar.js",
       "name": "*",
       "chunks": [
@@ -1161,7 +1181,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/components/nav/NavBar.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/components/nav/NavBar.js#": {
       "id": "(app-client)/./components/nav/NavBar.js",
       "name": "",
       "chunks": [
@@ -1169,7 +1189,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/components/nav/NavBar.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/components/nav/NavBar.js#default": {
       "id": "(app-client)/./components/nav/NavBar.js",
       "name": "default",
       "chunks": [
@@ -1177,7 +1197,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/context/AuthContext.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/context/AuthContext.js": {
       "id": "(app-client)/./context/AuthContext.js",
       "name": "*",
       "chunks": [
@@ -1185,7 +1205,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/context/AuthContext.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/context/AuthContext.js#": {
       "id": "(app-client)/./context/AuthContext.js",
       "name": "",
       "chunks": [
@@ -1193,7 +1213,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/context/AuthContext.js#AuthProvider": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/context/AuthContext.js#AuthProvider": {
       "id": "(app-client)/./context/AuthContext.js",
       "name": "AuthProvider",
       "chunks": [
@@ -1201,7 +1221,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/context/AuthContext.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/context/AuthContext.js#default": {
       "id": "(app-client)/./context/AuthContext.js",
       "name": "default",
       "chunks": [
@@ -1209,7 +1229,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/link.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1217,7 +1237,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/link.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/link.js": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
@@ -1225,7 +1245,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/link.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1233,7 +1253,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/link.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/link.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
@@ -1241,7 +1261,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/client/link.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1249,7 +1269,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/dist/esm/client/link.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/dist/esm/client/link.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
@@ -1257,7 +1277,31 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/register/page.js": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/login/page.js": {
+      "id": "(app-client)/./app/login/page.js",
+      "name": "*",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/login/page.js#": {
+      "id": "(app-client)/./app/login/page.js",
+      "name": "",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/login/page.js#default": {
+      "id": "(app-client)/./app/login/page.js",
+      "name": "default",
+      "chunks": [
+        "app/login/page:static/chunks/app/login/page.js"
+      ],
+      "async": false
+    },
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/register/page.js": {
       "id": "(app-client)/./app/register/page.js",
       "name": "*",
       "chunks": [
@@ -1265,7 +1309,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/register/page.js#": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/register/page.js#": {
       "id": "(app-client)/./app/register/page.js",
       "name": "",
       "chunks": [
@@ -1273,7 +1317,7 @@
       ],
       "async": false
     },
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/register/page.js#default": {
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/register/page.js#default": {
       "id": "(app-client)/./app/register/page.js",
       "name": "default",
       "chunks": [

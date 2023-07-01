@@ -1,4 +1,4 @@
-// File: /home/ubuntu/Desktop/all-mern-stack/forYoutube/app/page.js
+// File: /home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

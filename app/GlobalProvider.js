@@ -1,9 +1,8 @@
 "use client";
 
 import { AuthProvider } from "@/context/AuthContext";
-
-
-
+import { SessionProvider } from "next-auth/react";
+import toast, { Toaster } from 'react-hot-toast';
 
 
 export function GlobalProvider({ children }) {
@@ -11,8 +10,9 @@ export function GlobalProvider({ children }) {
     <>
    
       <AuthProvider>
-    
-      {children}
+      <Toaster />
+    <SessionProvider> {children}</SessionProvider>
+     
       </AuthProvider>
     </>
   );

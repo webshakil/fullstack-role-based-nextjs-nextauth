@@ -3,6 +3,7 @@
 import axios from "axios";
 import { useRouter } from "next/navigation";
 import { createContext, useState } from "react";
+import { toast } from "react-hot-toast";
 
 const AuthContext = createContext();
 
@@ -25,16 +26,18 @@ export const AuthProvider = ({ children }) => {
 
       if (data?.user) {
         router.push("/");
+        toast.success("Registration successful");
       }
     } catch (error) {
       setError(error?.response?.data?.message);
+      toast.error("Registration failed. Try again.");
     }
   };
 
   const addNewAddress = async (address) => {
     try {
       const { data } = await axios.post(
-        `${process.env.API_URL}/api/address`,
+        `http://localhost/api/address`,
         address
       );
 

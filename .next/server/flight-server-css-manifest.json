@@ -1,22 +1,26 @@
 {
   "cssImports": {
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/layout.js": [
-      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
-      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/globals.css"
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/layout.js": [
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/globals.css"
     ]
   },
   "cssModules": {
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/page": [
-      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/globals.css",
-      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/page": [
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/globals.css",
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/register/page": [
-      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/globals.css",
-      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/login/page": [
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/globals.css",
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ],
-    "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/login/page": [
-      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/app/globals.css",
-      "/home/ubuntu/Desktop/all-mern-stack/forYoutube/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/register/page": [
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/globals.css",
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/admin/page": [
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/app/globals.css",
+      "/home/ubuntu/Desktop/all-mern-stack/fullstack-role-based-nextjs-nextauth/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
     ]
   }
 }
